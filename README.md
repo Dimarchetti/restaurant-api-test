@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Restaurant API created with Strapi application.
